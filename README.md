@@ -1,6 +1,6 @@
 # ubudehe
 
-Name: # Jean Claude NIYIBIZI
+Name: Jean Claude NIYIBIZI
 ID: 20312
 # The purpose of ubudehe system 
 
@@ -17,9 +17,9 @@ The system should allow a user to login by using username and password.
 # Non-Functional Requirements
 Non-functional requirements are requirements that specifies criteria that can be used to judge the operation of a system.
 
-# Accuracy &Reliability: The System should fulfill the assigned task with failure-free.
-# Maintainability: The system should be modified, maintainable, and ready for a correction
-# Operability: The System should be able to operate under any Operating System and efficient to operate
+Accuracy &Reliability: The System should fulfill the assigned task with failure-free.
+aintainability: The system should be modified, maintainable, and ready for a correction
+ Operability: The System should be able to operate under any Operating System and efficient to operate
 # Project Plan:
 # Project Objectives: 
 a. Develop a comprehensive database system to store and manage individual socioeconomic information.
@@ -44,7 +44,7 @@ Design visually appealing and user-friendly reports and dashboards.
 
 
 # A database schema
-# Adatabase schema is a logical blueprint or structure that defines the organization, layout, and relationships of a database system. It provides a framework for organizing and representing the data stored within the database.
+ Adatabase schema is a logical blueprint or structure that defines the organization, layout, and relationships of a database system. It provides a framework for organizing and representing the data stored within the database.
  
 
 ![image](https://github.com/nclaude05/ubudehe/assets/50291475/d77613b9-ef1b-4939-9412-71039b1100cc)
