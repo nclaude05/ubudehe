@@ -83,11 +83,6 @@ In the password field, enter your corresponding password. Pay attention to case 
 After entering your email and password, click or tap the "Login" button to submit your login credentials.
 It will redirect you to view citizen 
 
-
-# this is link  for deployement 
-
-https://webtech-app-2.herokuapp.com/
-
 # 6: Wait for Authentication
 The application will validate your entered credentials against the stored user database. Please wait patiently while the application performs the authentication process.
 # Step 7: Successful Login
@@ -95,6 +90,13 @@ The application will validate your entered credentials against the stored user d
 If the entered credentials are correct, you will be successfully logged in to the application. The application will display the main dashboard or the landing page, providing access to its features and functionalities.
  
 ![image](https://github.com/nclaude05/ubudehe/assets/50291475/bd190ced-2c42-433c-9408-d1374d7a9e16)
+
+
+
+
+# this is link  for deployement 
+
+https://webtech-app-2.herokuapp.com/
 
 
 
