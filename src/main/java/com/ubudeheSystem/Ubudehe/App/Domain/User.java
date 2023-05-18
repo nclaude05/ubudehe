@@ -2,10 +2,7 @@ package com.ubudeheSystem.Ubudehe.App.Domain;
 
 import java.time.LocalDateTime;
 
-import javax.persistence.Column;
-import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.Id;
+import javax.persistence.*;
 import javax.validation.constraints.Email;
 import javax.validation.constraints.NotEmpty;
 import javax.validation.constraints.NotNull;
@@ -22,6 +19,7 @@ import lombok.Data;
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
+@Table(name ="user_table")
 public class User {
 
     @Id
