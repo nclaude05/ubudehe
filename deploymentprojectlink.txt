@@ -1,1 +1,1 @@
-https://aime-app.herokuapp.com
+ https://aime-app1.herokuapp.com/
